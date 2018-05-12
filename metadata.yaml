@@ -1,10 +1,16 @@
 _repo: One-Year-in-Scandinavia_49588
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49588-h/images/cover.jpg
 creator:
   author:
     agent_name: Snow, Erastus
     gutenberg_agent_id: '45429'
     url: http://www.gutenberg.org/2009/agents/45429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49588#One-Year-in-Scandinavia
 gutenberg_issued: '2015-08-03'
 gutenberg_type: Text
 identifiers:
